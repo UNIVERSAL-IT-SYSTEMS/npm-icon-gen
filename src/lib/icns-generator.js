@@ -9,7 +9,7 @@ export const IcnsConstants = {
    * Sizes required for the ICNS file.
    * @type {Array}
    */
-  imageSizes: [ 32, 64, 128, 256, 512, 1024 ],
+  imageSizes: [ 1024 ],
 
   /**
    * The size of the ICNS header.
